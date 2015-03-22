@@ -41,3 +41,10 @@ The first few bytes are: 4D C5 0F 59 18 25 F3 B4 FD E1 6C 72 A4 CD 5D 10 1B 7F 1
 This algorithm is interesting, but probably not useful as a pseudo-random number generator in practice as it requires ever-increasing amounts of memory for each new bit generated.
 
 
+Programs:
+
+The code is trivial to run, with no dependencies.
+
+Compile the C code with gcc 4dc5.c.
+
+Run the Python code with python 4dc5.py.
