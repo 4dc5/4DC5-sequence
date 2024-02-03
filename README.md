@@ -48,3 +48,9 @@ The code is trivial to run, with no dependencies.
 Compile the C code with gcc 4dc5.c.
 
 Run the Python code with python 4dc5.py.
+
+UPDATE 2024-02-03:
+
+It's just been pointed out to me that there is now an entry in OEIS for this sequence:
+
+https://oeis.org/A330731 - by Aresh Pourkavoos
