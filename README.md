@@ -1,6 +1,6 @@
 # 4DC5-sequence
 
-There are two versions of the 4DC5 sequence generator. One is in Python (and is a bit easier to understand), and the other in C (which is much faster).
+There are three versions of the 4DC5 sequence generator. One is in Python (and is a bit easier to understand), one is in C (which is much faster), and one is in Perl (which has neither of these advantages).
 
 The sequence generated is pseudo-random, though its mathematical "randomness" has not been established.
 
